@@ -2,6 +2,7 @@
 Adding new knowledge without accessing the old dataset
 
 - Folder structure
+```
 ├── config.py
 ├── display.py
 ├── elastic_weight_consolidation.py
@@ -141,3 +142,4 @@ Adding new knowledge without accessing the old dataset
 └── utils.py
 
 23 directories, 114 files
+```
