@@ -33,4 +33,4 @@ I have not uploaded all the content to github due to the size limitation. Howeve
 - we use the SUN_RGBD as test dataset, we use places365 pretrained model to train our new network
 - we start to train the model from 4 classes only and add another two new classes in experiments
 - LWF get a good result while for EWC, it does not converge
-- The confusion matrices of each epochs are shown below
+- The confusion matrices of each epochs are shown in lwf_epochs_cm, ewc_epochs_cm, and no_incremental_cm
